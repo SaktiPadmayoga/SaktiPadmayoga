@@ -42,6 +42,6 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SaktiPadmayoga&theme=midnight-purple" alt="GitHub Streak" /></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaktiPadmayoga&layout=compact&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaktiPadmayoga&layout=compact&theme=violet-punch)
 
 
