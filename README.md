@@ -25,6 +25,9 @@
   <a href="https://github.com/SaktiPadmayoga" target="_blank">
      <img src="https://img.shields.io/badge/Github-010101?style=for-the-badge&logo=github&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+  <a href="https://www.instagram.com/saqtii" target="_blank">
+     <img src="https://img.shields.io/badge/Github-010101?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
   <a href="https://saktipadmayoga.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
