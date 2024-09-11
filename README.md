@@ -42,9 +42,9 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SaktiPadmayoga&theme=algolia" alt="GitHub Streak" /></a>
 
-![Top Langs](https://github-readme-stats-dun-five.vercel.app/api/top-langs/?username=SaktiPadmayoga&layout=compact&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaktiPadmayoga&layout=compact&theme=algolia)
 
-![Anurag's GitHub stats](https://github-language-readme-stats.vercel.app/api?username=SaktiPadmayoga&theme=algolia&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaktiPadmayoga&theme=algolia&show_icons=true)
 
 
 
