@@ -44,7 +44,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaktiPadmayoga&layout=compact&theme=algolia)
 
-![Anurag's GitHub stats](https://github-readme-stats-mauve-eight-71.vercel.app/api?username=SaktiPadmayoga&theme=algolia&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats-rouge-three-87.vercel.app/api?username=SaktiPadmayoga&theme=algolia&show_icons=true)
 
 
 
