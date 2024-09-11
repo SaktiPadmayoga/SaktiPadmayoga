@@ -40,8 +40,13 @@
 <br/>
 <hr/>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SaktiPadmayoga&theme=midnight-purple" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SaktiPadmayoga&theme=algolia" alt="GitHub Streak" /></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaktiPadmayoga&layout=compact&theme=violet-punch)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaktiPadmayoga&layout=compact&theme=algolia)
+
+![Anurag's GitHub stats](https://github-readme-stats-mauve-eight-71.vercel.app/api?username=SaktiPadmayoga&theme=algolia&show_icons=true)
+
+
+
 
 
