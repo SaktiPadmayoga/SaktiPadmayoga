@@ -8,7 +8,7 @@
     <img src="Wallpaper music rock band desktop.jpeg" />
 </h2>
 
-<h3 align="center">A passionate web and software developer from Bali, Indonesia 🇮🇩</h3>
+<h3 align="center"> I'm Sakti👋, a Computer Science student passionate about web and software development from Bali, Indonesia 🇮🇩</h3>
 
 <br/>
 
