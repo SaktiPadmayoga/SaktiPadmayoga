@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Fellas!+👋;+I'm+Sakti+Padmayoga!;" />
 </h1>
 
-<img src="" />
+<img src="Wallpaper music rock band desktop.jpeg" />
 
 
 <h3 align="center">A passionate web and software developer from Bali, Indonesia 🇮🇩</h3>
