@@ -4,6 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Fellas!+👋;+I'm+Sakti+Padmayoga!;" />
 </h1>
 
+<svg width="500" height="70" xmlns="http://www.w3.org/2000/svg">
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="35" font-family="Righteous" fill="#FF5733">Hi Fellas! 👋; I'm Sakti Padmayoga!</text>
+</svg>
+
+
 <h3 align="center">A passionate web and software developer from Bali, Indonesia 🇮🇩</h3>
 
 <br/>
