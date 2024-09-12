@@ -19,6 +19,10 @@
  🌱 I’m currently learning **Flutter, Laravel**
 
  </div>
+
+ <br/>
+ <br/>
+ <br/>
 <h2 align="center">⚒️ Socials ⚒️</h2>
 <div align="center"> 
   <a href="mailto:saktipadmayoga@gmail.com">
