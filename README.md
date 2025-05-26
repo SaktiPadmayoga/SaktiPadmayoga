@@ -43,14 +43,13 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react,c,java,python,php" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react,c,java,python,PHP,laravel,express" />
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,vscode,git,github,figma,mac" /><br>
 </div>
 
 <br/>
 <hr/>
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaktiPadmayoga&layout=compact&theme=algolia)
-<br/>
+
 
 
 
