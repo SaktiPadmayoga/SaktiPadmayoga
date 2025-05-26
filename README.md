@@ -15,8 +15,6 @@
 <div align="center">
  
  🔭 I’m currently studying at Universitas Atma Jaya Yogyakarta
- 
- 🌱 I’m currently learning **Flutter, Laravel**
 
  </div>
 
@@ -51,7 +49,7 @@
 
 <br/>
 <hr/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaktiPadmayoga&layout=compact&theme=algolia)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaktiPadmayoga&layout=compact&theme=algolia)
 <br/>
 
 
