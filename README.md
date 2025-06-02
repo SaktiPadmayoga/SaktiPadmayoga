@@ -5,7 +5,7 @@
 </h1>
 
 <h2 align="center">
-    <img src="Wallpaper music rock band desktop.jpeg" />
+    <img src="27e23ba70944306a687162bae3ca09d8.jpg" />
 </h2>
 
 <br/>
