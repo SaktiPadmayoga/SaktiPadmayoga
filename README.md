@@ -8,8 +8,6 @@
   <img src="27e23ba70944306a687162bae3ca09d8.jpg" width="500" />
 </h2>
 
-<br/>
-
 # 👋 Hi, I’m Sakti
 
 I'm a Computer Science student from **Bali, Indonesia 🇮🇩**, Currently pursuing my degree at **Universitas Atma Jaya Yogyakarta**.
