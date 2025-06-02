@@ -5,7 +5,7 @@
 </h1>
 
 <h2 align="center">
-    <img src="27e23ba70944306a687162bae3ca09d8.jpg" />
+  <img src="27e23ba70944306a687162bae3ca09d8.jpg" width="500" />
 </h2>
 
 <br/>
